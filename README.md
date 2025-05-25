@@ -27,7 +27,7 @@ pinned: false
 ## 🧠 Tính năng nổi bật
 
 - ✅ **Upload nhiều file PDF**
-- ✅ **Kéo-thả để sắp xếp thứ tự**
+- ✅ **Click-Chọn để sắp xếp thứ tự**
 - ✅ **Gộp thành một file PDF liền mạch**
 - ✅ **Không phụ thuộc vào tên file (1.pdf, part_1.pdf,...)**
 - ✅ **Giao diện tiếng Việt, dễ dùng**
